@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\bin\Debug\net8.0\SelectCaseStatement2.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\bin\Debug\net8.0\SelectCaseStatement2.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\bin\Debug\net8.0\SelectCaseStatement2.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\bin\Debug\net8.0\SelectCaseStatement2.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\bin\Debug\net8.0\SelectCaseStatement2.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\obj\Debug\net8.0\SelectCaseStatement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\obj\Debug\net8.0\SelectCaseStatement2.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\obj\Debug\net8.0\SelectCaseStatement2.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\obj\Debug\net8.0\SelectCaseStatement2.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\obj\Debug\net8.0\SelectCaseStatement2.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\obj\Debug\net8.0\refint\SelectCaseStatement2.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\obj\Debug\net8.0\SelectCaseStatement2.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\obj\Debug\net8.0\SelectCaseStatement2.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCaseStatement2\SelectCaseStatement2\obj\Debug\net8.0\ref\SelectCaseStatement2.dll

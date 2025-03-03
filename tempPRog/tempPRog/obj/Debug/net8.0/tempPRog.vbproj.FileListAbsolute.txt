@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\bin\Debug\net8.0\tempPRog.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\bin\Debug\net8.0\tempPRog.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\bin\Debug\net8.0\tempPRog.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\bin\Debug\net8.0\tempPRog.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\bin\Debug\net8.0\tempPRog.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\obj\Debug\net8.0\tempPRog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\obj\Debug\net8.0\tempPRog.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\obj\Debug\net8.0\tempPRog.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\obj\Debug\net8.0\tempPRog.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\obj\Debug\net8.0\tempPRog.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\obj\Debug\net8.0\refint\tempPRog.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\obj\Debug\net8.0\tempPRog.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\obj\Debug\net8.0\tempPRog.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\tempPRog\tempPRog\obj\Debug\net8.0\ref\tempPRog.dll

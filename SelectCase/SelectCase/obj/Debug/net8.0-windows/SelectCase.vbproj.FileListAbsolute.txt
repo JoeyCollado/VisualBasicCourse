@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\SelectCase.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\SelectCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\SelectCase.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\SelectCase.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\SelectCase.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\SelectCase.form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\bin\Debug\net8.0-windows\SelectCase.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\bin\Debug\net8.0-windows\SelectCase.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\bin\Debug\net8.0-windows\SelectCase.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\bin\Debug\net8.0-windows\SelectCase.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\bin\Debug\net8.0-windows\SelectCase.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\SelectCase.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\refint\SelectCase.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\SelectCase.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\SelectCase.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\SelectCase\SelectCase\obj\Debug\net8.0-windows\ref\SelectCase.dll

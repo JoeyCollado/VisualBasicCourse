@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\bin\Debug\net8.0\MoreConsoleCommands-console.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\bin\Debug\net8.0\MoreConsoleCommands-console.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\bin\Debug\net8.0\MoreConsoleCommands-console.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\bin\Debug\net8.0\MoreConsoleCommands-console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\bin\Debug\net8.0\MoreConsoleCommands-console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\obj\Debug\net8.0\MoreConsoleCommands-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\obj\Debug\net8.0\MoreConsoleCommands-console.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\obj\Debug\net8.0\MoreConsoleCommands-console.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\obj\Debug\net8.0\MoreConsoleCommands-console.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\obj\Debug\net8.0\MoreConsoleCommands-console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\obj\Debug\net8.0\refint\MoreConsoleCommands-console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\obj\Debug\net8.0\MoreConsoleCommands-console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\obj\Debug\net8.0\MoreConsoleCommands-console.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\MoreConsoleCommands-console\MoreConsoleCommands-console\obj\Debug\net8.0\ref\MoreConsoleCommands-console.dll

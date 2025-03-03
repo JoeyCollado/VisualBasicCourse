@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\bin\Debug\net8.0\area and perimeter of a rectangle - windows.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\bin\Debug\net8.0\area and perimeter of a rectangle - windows.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\bin\Debug\net8.0\area and perimeter of a rectangle - windows.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\bin\Debug\net8.0\area and perimeter of a rectangle - windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\bin\Debug\net8.0\area and perimeter of a rectangle - windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\obj\Debug\net8.0\area and perimeter of a rectangle - windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\obj\Debug\net8.0\area and perimeter of a rectangle - windows.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\obj\Debug\net8.0\area and perimeter of a rectangle - windows.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\obj\Debug\net8.0\area and perimeter of a rectangle - windows.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\obj\Debug\net8.0\area and perimeter of a rectangle - windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\obj\Debug\net8.0\refint\area and perimeter of a rectangle - windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\obj\Debug\net8.0\area and perimeter of a rectangle - windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\obj\Debug\net8.0\area and perimeter of a rectangle - windows.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\area and perimeter of a rectangle - windows\area and perimeter of a rectangle - windows\obj\Debug\net8.0\ref\area and perimeter of a rectangle - windows.dll

@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\bin\Debug\net8.0\Miscellaneous_Operators.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\bin\Debug\net8.0\Miscellaneous_Operators.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\bin\Debug\net8.0\Miscellaneous_Operators.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\bin\Debug\net8.0\Miscellaneous_Operators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\bin\Debug\net8.0\Miscellaneous_Operators.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\obj\Debug\net8.0\Miscellaneous_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\obj\Debug\net8.0\Miscellaneous_Operators.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\obj\Debug\net8.0\Miscellaneous_Operators.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\obj\Debug\net8.0\Miscellaneous_Operators.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\obj\Debug\net8.0\Miscellaneous_Operators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\obj\Debug\net8.0\refint\Miscellaneous_Operators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\obj\Debug\net8.0\Miscellaneous_Operators.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\obj\Debug\net8.0\Miscellaneous_Operators.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Miscellaneous_Operators\Miscellaneous_Operators\obj\Debug\net8.0\ref\Miscellaneous_Operators.dll

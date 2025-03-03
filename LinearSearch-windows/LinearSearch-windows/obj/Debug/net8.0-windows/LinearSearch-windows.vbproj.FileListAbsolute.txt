@@ -1,0 +1,6 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\LinearSearch-windows\LinearSearch-windows\obj\Debug\net8.0-windows\LinearSearch_windows.btnLS.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\LinearSearch-windows\LinearSearch-windows\obj\Debug\net8.0-windows\LinearSearch-windows.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\LinearSearch-windows\LinearSearch-windows\obj\Debug\net8.0-windows\LinearSearch-windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\LinearSearch-windows\LinearSearch-windows\obj\Debug\net8.0-windows\LinearSearch-windows.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\LinearSearch-windows\LinearSearch-windows\obj\Debug\net8.0-windows\LinearSearch-windows.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\LinearSearch-windows\LinearSearch-windows\obj\Debug\net8.0-windows\LinearSearch-windows.vbproj.CoreCompileInputs.cache

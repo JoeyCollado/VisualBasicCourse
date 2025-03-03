@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F807A6-FBC0-4386-8F54-87F5C7781270}|ConsoleApp1\\ConsoleApp1.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\consoleapp1\\consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{02F807A6-FBC0-4386-8F54-87F5C7781270}|ConsoleApp1\\ConsoleApp1.vbproj|solutionrelative:consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\ConsoleApp1\\ConsoleApp1\\Program.vb",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\ConsoleApp1\\ConsoleApp1\\Program.vb*",
+              "RelativeToolTip": "ConsoleApp1\\Program.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T05:34:00.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\DoWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDF62E-2332-48FF-A16F-6AD7C70ABCBC}|DoWhile\\DoWhile.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\dowhile\\dowhile\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80DDF62E-2332-48FF-A16F-6AD7C70ABCBC}|DoWhile\\DoWhile.vbproj|solutionrelative:dowhile\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDF62E-2332-48FF-A16F-6AD7C70ABCBC}|DoWhile\\DoWhile.vbproj|C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\DoWhile\\dowhile\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80DDF62E-2332-48FF-A16F-6AD7C70ABCBC}|DoWhile\\DoWhile.vbproj|solutionrelative:dowhile\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\DoWhile\\DoWhile\\Form1.vb",
+              "RelativeDocumentMoniker": "DoWhile\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\DoWhile\\DoWhile\\Form1.vb",
+              "RelativeToolTip": "DoWhile\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:54:40.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\DoWhile\\DoWhile\\Form1.vb",
+              "RelativeDocumentMoniker": "DoWhile\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\DoWhile\\DoWhile\\Form1.vb [Design]",
+              "RelativeToolTip": "DoWhile\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T07:47:09.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

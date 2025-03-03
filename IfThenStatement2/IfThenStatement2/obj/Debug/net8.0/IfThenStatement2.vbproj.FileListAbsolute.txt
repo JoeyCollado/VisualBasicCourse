@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\bin\Debug\net8.0\IfThenStatement2.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\bin\Debug\net8.0\IfThenStatement2.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\bin\Debug\net8.0\IfThenStatement2.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\bin\Debug\net8.0\IfThenStatement2.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\bin\Debug\net8.0\IfThenStatement2.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\obj\Debug\net8.0\IfThenStatement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\obj\Debug\net8.0\IfThenStatement2.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\obj\Debug\net8.0\IfThenStatement2.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\obj\Debug\net8.0\IfThenStatement2.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\obj\Debug\net8.0\IfThenStatement2.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\obj\Debug\net8.0\refint\IfThenStatement2.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\obj\Debug\net8.0\IfThenStatement2.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\obj\Debug\net8.0\IfThenStatement2.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\IfThenStatement2\IfThenStatement2\obj\Debug\net8.0\ref\IfThenStatement2.dll

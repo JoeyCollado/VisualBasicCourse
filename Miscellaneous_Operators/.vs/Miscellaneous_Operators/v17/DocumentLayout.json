@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Miscellaneous_Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146F2093-F124-47DB-880F-C07D8FCCBC25}|Miscellaneous_Operators\\Miscellaneous_Operators.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\miscellaneous_operators\\miscellaneous_operators\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{146F2093-F124-47DB-880F-C07D8FCCBC25}|Miscellaneous_Operators\\Miscellaneous_Operators.vbproj|solutionrelative:miscellaneous_operators\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Miscellaneous_Operators\\Miscellaneous_Operators\\Program.vb",
+              "RelativeDocumentMoniker": "Miscellaneous_Operators\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Miscellaneous_Operators\\Miscellaneous_Operators\\Program.vb",
+              "RelativeToolTip": "Miscellaneous_Operators\\Program.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-01T13:34:43.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

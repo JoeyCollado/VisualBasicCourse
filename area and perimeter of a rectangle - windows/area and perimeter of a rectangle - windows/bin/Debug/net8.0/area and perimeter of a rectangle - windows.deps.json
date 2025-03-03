@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "area and perimeter of a rectangle - windows/1.0.0": {
+        "runtime": {
+          "area and perimeter of a rectangle - windows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "area and perimeter of a rectangle - windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\bin\Debug\net8.0-windows\arrayVariables-windows.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\bin\Debug\net8.0-windows\arrayVariables-windows.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\bin\Debug\net8.0-windows\arrayVariables-windows.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\bin\Debug\net8.0-windows\arrayVariables-windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\bin\Debug\net8.0-windows\arrayVariables-windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\arrayVariables_windows.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\arrayVariables-windows.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\arrayVariables-windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\arrayVariables-windows.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\arrayVariables-windows.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\arrayVariables-windows.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\arrayVariables-windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\refint\arrayVariables-windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\arrayVariables-windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\arrayVariables-windows.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\arrayVariables-windows\arrayVariables-windows\obj\Debug\net8.0-windows\ref\arrayVariables-windows.dll

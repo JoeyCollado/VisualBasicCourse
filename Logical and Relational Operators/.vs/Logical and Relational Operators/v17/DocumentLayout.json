@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Logical and Relational Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8455CEB-0B21-4254-9F37-FFF9F4D6B157}|Logical and Relational operators\\Logical and Relational operators.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\logical and relational operators\\logical and relational operators\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A8455CEB-0B21-4254-9F37-FFF9F4D6B157}|Logical and Relational operators\\Logical and Relational operators.vbproj|solutionrelative:logical and relational operators\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8455CEB-0B21-4254-9F37-FFF9F4D6B157}|Logical and Relational operators\\Logical and Relational operators.vbproj|C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Logical and Relational Operators\\logical and relational operators\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A8455CEB-0B21-4254-9F37-FFF9F4D6B157}|Logical and Relational operators\\Logical and Relational operators.vbproj|solutionrelative:logical and relational operators\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Logical and Relational Operators\\Logical and Relational Operators\\Form1.vb",
+              "RelativeDocumentMoniker": "Logical and Relational Operators\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Logical and Relational Operators\\Logical and Relational Operators\\Form1.vb",
+              "RelativeToolTip": "Logical and Relational Operators\\Form1.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-12T23:24:43.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Logical and Relational Operators\\Logical and Relational Operators\\Form1.vb",
+              "RelativeDocumentMoniker": "Logical and Relational Operators\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Logical and Relational Operators\\Logical and Relational Operators\\Form1.vb [Design]",
+              "RelativeToolTip": "Logical and Relational Operators\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-12T23:22:52.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

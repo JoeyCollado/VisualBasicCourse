@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\QUIZ_4_CPPROG1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401B2AAB-636A-448D-AC76-69CDD51C54DF}|QUIZ_4_CPPROG1\\QUIZ_4_CPPROG1.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\quiz_4_cpprog1\\quiz_4_cpprog1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{401B2AAB-636A-448D-AC76-69CDD51C54DF}|QUIZ_4_CPPROG1\\QUIZ_4_CPPROG1.vbproj|solutionrelative:quiz_4_cpprog1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\QUIZ_4_CPPROG1\\QUIZ_4_CPPROG1\\Program.vb",
+              "RelativeDocumentMoniker": "QUIZ_4_CPPROG1\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\QUIZ_4_CPPROG1\\QUIZ_4_CPPROG1\\Program.vb",
+              "RelativeToolTip": "QUIZ_4_CPPROG1\\Program.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T05:12:05.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_array_windows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA992ADF-F0FD-413E-852E-5DEC33322DF2}|2d_array_windows\\2d_array_windows.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\2d_array_windows\\2d_array_windows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EA992ADF-F0FD-413E-852E-5DEC33322DF2}|2d_array_windows\\2d_array_windows.vbproj|solutionrelative:2d_array_windows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA992ADF-F0FD-413E-852E-5DEC33322DF2}|2d_array_windows\\2d_array_windows.vbproj|C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_array_windows\\2d_array_windows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EA992ADF-F0FD-413E-852E-5DEC33322DF2}|2d_array_windows\\2d_array_windows.vbproj|solutionrelative:2d_array_windows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_array_windows\\2d_array_windows\\Form1.vb",
+              "RelativeDocumentMoniker": "2d_array_windows\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_array_windows\\2d_array_windows\\Form1.vb",
+              "RelativeToolTip": "2d_array_windows\\Form1.vb",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T08:49:22.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_array_windows\\2d_array_windows\\Form1.vb",
+              "RelativeDocumentMoniker": "2d_array_windows\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_array_windows\\2d_array_windows\\Form1.vb [Design]",
+              "RelativeToolTip": "2d_array_windows\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T08:45:18.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

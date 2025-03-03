@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Arithmetic Operator-console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1870214C-1C87-4790-875A-C3D91EFE8760}|Arithmetic Operator-console\\Arithmetic Operator-console.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\arithmetic operator-console\\arithmetic operator-console\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1870214C-1C87-4790-875A-C3D91EFE8760}|Arithmetic Operator-console\\Arithmetic Operator-console.vbproj|solutionrelative:arithmetic operator-console\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Arithmetic Operator-console\\Arithmetic Operator-console\\Program.vb",
+              "RelativeDocumentMoniker": "Arithmetic Operator-console\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Arithmetic Operator-console\\Arithmetic Operator-console\\Program.vb",
+              "RelativeToolTip": "Arithmetic Operator-console\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T06:14:51.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

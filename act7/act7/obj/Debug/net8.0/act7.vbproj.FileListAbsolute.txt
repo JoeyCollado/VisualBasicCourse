@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\bin\Debug\net8.0\act7.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\bin\Debug\net8.0\act7.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\bin\Debug\net8.0\act7.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\bin\Debug\net8.0\act7.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\bin\Debug\net8.0\act7.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\obj\Debug\net8.0\act7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\obj\Debug\net8.0\act7.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\obj\Debug\net8.0\act7.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\obj\Debug\net8.0\act7.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\obj\Debug\net8.0\act7.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\obj\Debug\net8.0\refint\act7.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\obj\Debug\net8.0\act7.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\obj\Debug\net8.0\act7.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\act7\act7\obj\Debug\net8.0\ref\act7.dll

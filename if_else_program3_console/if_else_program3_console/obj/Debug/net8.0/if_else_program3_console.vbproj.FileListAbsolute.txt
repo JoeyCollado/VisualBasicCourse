@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\bin\Debug\net8.0\if_else_program3_console.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\bin\Debug\net8.0\if_else_program3_console.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\bin\Debug\net8.0\if_else_program3_console.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\bin\Debug\net8.0\if_else_program3_console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\bin\Debug\net8.0\if_else_program3_console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\obj\Debug\net8.0\if_else_program3_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\obj\Debug\net8.0\if_else_program3_console.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\obj\Debug\net8.0\if_else_program3_console.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\obj\Debug\net8.0\if_else_program3_console.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\obj\Debug\net8.0\if_else_program3_console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\obj\Debug\net8.0\refint\if_else_program3_console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\obj\Debug\net8.0\if_else_program3_console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\obj\Debug\net8.0\if_else_program3_console.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\if_else_program3_console\if_else_program3_console\obj\Debug\net8.0\ref\if_else_program3_console.dll

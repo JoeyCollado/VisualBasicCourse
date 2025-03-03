@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\IfThenStatement2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4C4E84-5428-4DEA-AAC6-4FE3C765EAEE}|IfThenStatement2\\IfThenStatement2.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\ifthenstatement2\\ifthenstatement2\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FB4C4E84-5428-4DEA-AAC6-4FE3C765EAEE}|IfThenStatement2\\IfThenStatement2.vbproj|solutionrelative:ifthenstatement2\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\IfThenStatement2\\IfThenStatement2\\Program.vb",
+              "RelativeDocumentMoniker": "IfThenStatement2\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\IfThenStatement2\\IfThenStatement2\\Program.vb",
+              "RelativeToolTip": "IfThenStatement2\\Program.vb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-01T14:46:09.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

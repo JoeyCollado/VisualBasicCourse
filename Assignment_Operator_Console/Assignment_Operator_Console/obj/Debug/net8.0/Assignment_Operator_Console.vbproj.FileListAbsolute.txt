@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\bin\Debug\net8.0\Assignment_Operator_Console.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\bin\Debug\net8.0\Assignment_Operator_Console.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\bin\Debug\net8.0\Assignment_Operator_Console.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\bin\Debug\net8.0\Assignment_Operator_Console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\bin\Debug\net8.0\Assignment_Operator_Console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\obj\Debug\net8.0\Assignment_Operator_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\obj\Debug\net8.0\Assignment_Operator_Console.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\obj\Debug\net8.0\Assignment_Operator_Console.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\obj\Debug\net8.0\Assignment_Operator_Console.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\obj\Debug\net8.0\Assignment_Operator_Console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\obj\Debug\net8.0\refint\Assignment_Operator_Console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\obj\Debug\net8.0\Assignment_Operator_Console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\obj\Debug\net8.0\Assignment_Operator_Console.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Assignment_Operator_Console\Assignment_Operator_Console\obj\Debug\net8.0\ref\Assignment_Operator_Console.dll

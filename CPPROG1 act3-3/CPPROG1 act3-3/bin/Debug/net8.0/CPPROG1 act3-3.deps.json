@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CPPROG1 act3-3/1.0.0": {
+        "runtime": {
+          "CPPROG1 act3-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPPROG1 act3-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_arrays_and_nested_loop_windows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B670B90E-76CC-47DD-AD2F-4B4486A16333}|2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B670B90E-76CC-47DD-AD2F-4B4486A16333}|2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows.vbproj|solutionrelative:2d_arrays_and_nested_loop_windows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B670B90E-76CC-47DD-AD2F-4B4486A16333}|2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B670B90E-76CC-47DD-AD2F-4B4486A16333}|2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows.vbproj|solutionrelative:2d_arrays_and_nested_loop_windows\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows\\Form1.vb",
+              "RelativeDocumentMoniker": "2d_arrays_and_nested_loop_windows\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows\\Form1.vb",
+              "RelativeToolTip": "2d_arrays_and_nested_loop_windows\\Form1.vb",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAPUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T05:44:46.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows\\Form1.vb",
+              "RelativeDocumentMoniker": "2d_arrays_and_nested_loop_windows\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\2d_arrays_and_nested_loop_windows\\2d_arrays_and_nested_loop_windows\\Form1.vb [Design]",
+              "RelativeToolTip": "2d_arrays_and_nested_loop_windows\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-30T05:42:02.776Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\tempPRog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8542FA-F67F-47A4-986D-04E702B9C841}|tempPRog\\tempPRog.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\tempprog\\tempprog\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B8542FA-F67F-47A4-986D-04E702B9C841}|tempPRog\\tempPRog.vbproj|solutionrelative:tempprog\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\tempPRog\\tempPRog\\Program.vb",
+              "RelativeDocumentMoniker": "tempPRog\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\tempPRog\\tempPRog\\Program.vb",
+              "RelativeToolTip": "tempPRog\\Program.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-04T12:09:30.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\Logical_and_Relational_operators.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\Logical and Relational operators.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\Logical and Relational operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\Logical and Relational operators.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\Logical and Relational operators.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\Logical and Relational operators.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\bin\Debug\net8.0-windows\Logical and Relational operators.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\bin\Debug\net8.0-windows\Logical and Relational operators.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\bin\Debug\net8.0-windows\Logical and Relational operators.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\bin\Debug\net8.0-windows\Logical and Relational operators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\bin\Debug\net8.0-windows\Logical and Relational operators.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\Logical and Relational operators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\refint\Logical and Relational operators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\Logical and Relational operators.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\Logical and Relational operators.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical and Relational operators\Logical and Relational operators\obj\Debug\net8.0-windows\ref\Logical and Relational operators.dll

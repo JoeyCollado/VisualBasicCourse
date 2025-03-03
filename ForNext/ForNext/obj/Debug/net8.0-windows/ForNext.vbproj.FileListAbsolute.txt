@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\bin\Debug\net8.0-windows\ForNext.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\bin\Debug\net8.0-windows\ForNext.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\bin\Debug\net8.0-windows\ForNext.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\bin\Debug\net8.0-windows\ForNext.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\bin\Debug\net8.0-windows\ForNext.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ForNext.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ForNext.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ForNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ForNext.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ForNext.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ForNext.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ForNext.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\refint\ForNext.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ForNext.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ForNext.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ForNext\ForNext\obj\Debug\net8.0-windows\ref\ForNext.dll

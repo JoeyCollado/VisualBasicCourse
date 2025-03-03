@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll

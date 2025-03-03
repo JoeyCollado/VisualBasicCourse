@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\SelectCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A1556E-F5A0-48B8-9DBA-08E17FF4D147}|SelectCase\\SelectCase.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\selectcase\\selectcase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2A1556E-F5A0-48B8-9DBA-08E17FF4D147}|SelectCase\\SelectCase.vbproj|solutionrelative:selectcase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A1556E-F5A0-48B8-9DBA-08E17FF4D147}|SelectCase\\SelectCase.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\selectcase\\selectcase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2A1556E-F5A0-48B8-9DBA-08E17FF4D147}|SelectCase\\SelectCase.vbproj|solutionrelative:selectcase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\SelectCase\\SelectCase\\Form1.vb",
+              "RelativeDocumentMoniker": "SelectCase\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\SelectCase\\SelectCase\\Form1.vb",
+              "RelativeToolTip": "SelectCase\\Form1.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-13T11:15:05.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\SelectCase\\SelectCase\\Form1.vb",
+              "RelativeDocumentMoniker": "SelectCase\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\SelectCase\\SelectCase\\Form1.vb [Design]",
+              "RelativeToolTip": "SelectCase\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-13T11:14:11.584Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

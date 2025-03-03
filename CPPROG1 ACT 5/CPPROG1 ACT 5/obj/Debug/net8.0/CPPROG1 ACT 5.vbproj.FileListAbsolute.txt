@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\bin\Debug\net8.0\CPPROG1 ACT 5.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\bin\Debug\net8.0\CPPROG1 ACT 5.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\bin\Debug\net8.0\CPPROG1 ACT 5.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\bin\Debug\net8.0\CPPROG1 ACT 5.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\bin\Debug\net8.0\CPPROG1 ACT 5.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\obj\Debug\net8.0\CPPROG1 ACT 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\obj\Debug\net8.0\CPPROG1 ACT 5.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\obj\Debug\net8.0\CPPROG1 ACT 5.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\obj\Debug\net8.0\CPPROG1 ACT 5.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\obj\Debug\net8.0\CPPROG1 ACT 5.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\obj\Debug\net8.0\refint\CPPROG1 ACT 5.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\obj\Debug\net8.0\CPPROG1 ACT 5.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\obj\Debug\net8.0\CPPROG1 ACT 5.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\CPPROG1 ACT 5\CPPROG1 ACT 5\obj\Debug\net8.0\ref\CPPROG1 ACT 5.dll

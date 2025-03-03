@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\bin\Debug\net8.0-windows\VariableDataTypes.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\bin\Debug\net8.0-windows\VariableDataTypes.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\bin\Debug\net8.0-windows\VariableDataTypes.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\bin\Debug\net8.0-windows\VariableDataTypes.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\bin\Debug\net8.0-windows\VariableDataTypes.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\VariableDataTypes.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\VariableDataTypes.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\VariableDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\VariableDataTypes.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\VariableDataTypes.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\VariableDataTypes.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\VariableDataTypes.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\refint\VariableDataTypes.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\VariableDataTypes.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\VariableDataTypes.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\VariableDataTypes\VariableDataTypes\obj\Debug\net8.0-windows\ref\VariableDataTypes.dll

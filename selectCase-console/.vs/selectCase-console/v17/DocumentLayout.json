@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\selectCase-console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B612F2-A44E-4AEC-B464-C0EC30ADCDE0}|selectCase-console\\selectCase-console.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\selectcase-console\\selectcase-console\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{78B612F2-A44E-4AEC-B464-C0EC30ADCDE0}|selectCase-console\\selectCase-console.vbproj|solutionrelative:selectcase-console\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\selectCase-console\\selectCase-console\\Program.vb",
+              "RelativeDocumentMoniker": "selectCase-console\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\selectCase-console\\selectCase-console\\Program.vb",
+              "RelativeToolTip": "selectCase-console\\Program.vb",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-09T04:09:05.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0-windows\ArithmeticOperators.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0-windows\ArithmeticOperators.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0-windows\ArithmeticOperators.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0-windows\ArithmeticOperators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\bin\Debug\net8.0-windows\ArithmeticOperators.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ArithmeticOperators.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ArithmeticOperators.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ArithmeticOperators.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ArithmeticOperators.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ArithmeticOperators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\refint\ArithmeticOperators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ArithmeticOperators.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ArithmeticOperators.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ArithmeticOperators\ArithmeticOperators\obj\Debug\net8.0-windows\ref\ArithmeticOperators.dll

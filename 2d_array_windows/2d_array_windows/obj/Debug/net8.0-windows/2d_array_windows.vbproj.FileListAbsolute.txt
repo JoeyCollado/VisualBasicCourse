@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\_2d_array_windows.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\2d_array_windows.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\2d_array_windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\2d_array_windows.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\2d_array_windows.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\2d_array_windows.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\bin\Debug\net8.0-windows\2d_array_windows.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\bin\Debug\net8.0-windows\2d_array_windows.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\bin\Debug\net8.0-windows\2d_array_windows.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\bin\Debug\net8.0-windows\2d_array_windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\bin\Debug\net8.0-windows\2d_array_windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\2d_array_windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\refint\2d_array_windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\2d_array_windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\2d_array_windows.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_array_windows\2d_array_windows\obj\Debug\net8.0-windows\ref\2d_array_windows.dll

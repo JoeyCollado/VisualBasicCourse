@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Activity 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C350EF-94B8-4950-A50F-7D3AF624CABA}|Activity 8\\Activity 8.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\activity 8\\activity 8\\display.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B0C350EF-94B8-4950-A50F-7D3AF624CABA}|Activity 8\\Activity 8.vbproj|solutionrelative:activity 8\\display.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C350EF-94B8-4950-A50F-7D3AF624CABA}|Activity 8\\Activity 8.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\activity 8\\activity 8\\density.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B0C350EF-94B8-4950-A50F-7D3AF624CABA}|Activity 8\\Activity 8.vbproj|solutionrelative:activity 8\\density.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C350EF-94B8-4950-A50F-7D3AF624CABA}|Activity 8\\Activity 8.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\activity 8\\activity 8\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B0C350EF-94B8-4950-A50F-7D3AF624CABA}|Activity 8\\Activity 8.vbproj|solutionrelative:activity 8\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "density.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Activity 8\\Activity 8\\density.vb",
+              "RelativeDocumentMoniker": "Activity 8\\density.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Activity 8\\Activity 8\\density.vb",
+              "RelativeToolTip": "Activity 8\\density.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-13T13:11:28.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "display.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Activity 8\\Activity 8\\display.vb",
+              "RelativeDocumentMoniker": "Activity 8\\display.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Activity 8\\Activity 8\\display.vb",
+              "RelativeToolTip": "Activity 8\\display.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-13T13:11:07.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Activity 8\\Activity 8\\Program.vb",
+              "RelativeDocumentMoniker": "Activity 8\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Activity 8\\Activity 8\\Program.vb",
+              "RelativeToolTip": "Activity 8\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-13T12:28:43.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

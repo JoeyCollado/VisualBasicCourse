@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Practice Array Variables-windows", "WinFormsApp1\Practice Array Variables-windows.vbproj", "{7CA79287-BB29-4C20-B679-D710E924986A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA79287-BB29-4C20-B679-D710E924986A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA79287-BB29-4C20-B679-D710E924986A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA79287-BB29-4C20-B679-D710E924986A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA79287-BB29-4C20-B679-D710E924986A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F74C5A16-BACD-48F6-868F-2EDB3D3932F3}
+	EndGlobalSection
+EndGlobal

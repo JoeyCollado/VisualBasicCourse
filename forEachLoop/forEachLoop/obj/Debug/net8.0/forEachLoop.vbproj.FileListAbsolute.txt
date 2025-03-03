@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\bin\Debug\net8.0\forEachLoop.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\obj\Debug\net8.0\refint\forEachLoop.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\obj\Debug\net8.0\forEachLoop.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\forEachLoop\forEachLoop\obj\Debug\net8.0\ref\forEachLoop.dll

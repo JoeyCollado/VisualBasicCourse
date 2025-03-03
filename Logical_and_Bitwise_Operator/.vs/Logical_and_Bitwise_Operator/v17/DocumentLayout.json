@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Logical_and_Bitwise_Operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4AB5A9-236C-4CCB-A846-EF6271414290}|Logical_and_Bitwise_Operator\\Logical_and_Bitwise_Operator.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\logical_and_bitwise_operator\\logical_and_bitwise_operator\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CA4AB5A9-236C-4CCB-A846-EF6271414290}|Logical_and_Bitwise_Operator\\Logical_and_Bitwise_Operator.vbproj|solutionrelative:logical_and_bitwise_operator\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Logical_and_Bitwise_Operator\\Logical_and_Bitwise_Operator\\Program.vb",
+              "RelativeDocumentMoniker": "Logical_and_Bitwise_Operator\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Logical_and_Bitwise_Operator\\Logical_and_Bitwise_Operator\\Program.vb",
+              "RelativeToolTip": "Logical_and_Bitwise_Operator\\Program.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAADUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-01T07:25:56.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

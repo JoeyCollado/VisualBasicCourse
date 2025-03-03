@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\bin\Debug\net8.0\Logical_and_Bitwise_Operator.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\bin\Debug\net8.0\Logical_and_Bitwise_Operator.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\bin\Debug\net8.0\Logical_and_Bitwise_Operator.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\bin\Debug\net8.0\Logical_and_Bitwise_Operator.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\bin\Debug\net8.0\Logical_and_Bitwise_Operator.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\obj\Debug\net8.0\Logical_and_Bitwise_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\obj\Debug\net8.0\Logical_and_Bitwise_Operator.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\obj\Debug\net8.0\Logical_and_Bitwise_Operator.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\obj\Debug\net8.0\Logical_and_Bitwise_Operator.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\obj\Debug\net8.0\Logical_and_Bitwise_Operator.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\obj\Debug\net8.0\refint\Logical_and_Bitwise_Operator.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\obj\Debug\net8.0\Logical_and_Bitwise_Operator.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\obj\Debug\net8.0\Logical_and_Bitwise_Operator.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Logical_and_Bitwise_Operator\Logical_and_Bitwise_Operator\obj\Debug\net8.0\ref\Logical_and_Bitwise_Operator.dll

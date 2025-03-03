@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Operator_precedence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74DB8A72-66D7-40CA-A2B2-6315707A18A3}|Operator_precedence\\Operator_precedence.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\operator_precedence\\operator_precedence\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{74DB8A72-66D7-40CA-A2B2-6315707A18A3}|Operator_precedence\\Operator_precedence.vbproj|solutionrelative:operator_precedence\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Operator_precedence\\Operator_precedence\\Program.vb",
+              "RelativeDocumentMoniker": "Operator_precedence\\Program.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Operator_precedence\\Operator_precedence\\Program.vb",
+              "RelativeToolTip": "Operator_precedence\\Program.vb",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-01T13:40:34.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

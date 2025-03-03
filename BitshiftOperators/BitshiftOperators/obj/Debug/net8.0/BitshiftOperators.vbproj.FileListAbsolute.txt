@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\bin\Debug\net8.0\BitshiftOperators.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\bin\Debug\net8.0\BitshiftOperators.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\bin\Debug\net8.0\BitshiftOperators.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\bin\Debug\net8.0\BitshiftOperators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\bin\Debug\net8.0\BitshiftOperators.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\obj\Debug\net8.0\BitshiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\obj\Debug\net8.0\BitshiftOperators.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\obj\Debug\net8.0\BitshiftOperators.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\obj\Debug\net8.0\BitshiftOperators.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\obj\Debug\net8.0\BitshiftOperators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\obj\Debug\net8.0\refint\BitshiftOperators.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\obj\Debug\net8.0\BitshiftOperators.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\obj\Debug\net8.0\BitshiftOperators.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\BitshiftOperators\BitshiftOperators\obj\Debug\net8.0\ref\BitshiftOperators.dll

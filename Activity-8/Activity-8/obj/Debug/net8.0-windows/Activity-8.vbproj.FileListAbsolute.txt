@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\bin\Debug\net8.0-windows\Activity-8.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\bin\Debug\net8.0-windows\Activity-8.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\bin\Debug\net8.0-windows\Activity-8.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\bin\Debug\net8.0-windows\Activity-8.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\bin\Debug\net8.0-windows\Activity-8.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\Activity_8.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\Activity-8.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\Activity-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\Activity-8.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\Activity-8.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\Activity-8.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\Activity-8.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\refint\Activity-8.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\Activity-8.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\Activity-8.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Activity-8\Activity-8\obj\Debug\net8.0-windows\ref\Activity-8.dll

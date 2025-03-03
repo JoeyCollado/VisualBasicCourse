@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\bin\Debug\net8.0-windows\OutputAndVariables.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\refint\OutputAndVariables.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\OutputAndVariables.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\OutputAndVariables\OutputAndVariables\obj\Debug\net8.0-windows\ref\OutputAndVariables.dll

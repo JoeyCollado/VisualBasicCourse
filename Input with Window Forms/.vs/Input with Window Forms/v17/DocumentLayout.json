@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Input with Window Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2473B1-68A1-46EF-BD57-44F1DF12E453}|Input with Window Forms\\Input with Window Forms.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\input with window forms\\input with window forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF2473B1-68A1-46EF-BD57-44F1DF12E453}|Input with Window Forms\\Input with Window Forms.vbproj|solutionrelative:input with window forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2473B1-68A1-46EF-BD57-44F1DF12E453}|Input with Window Forms\\Input with Window Forms.vbproj|c:\\users\\akosi\\onedrive\\desktop\\vb.net\\input with window forms\\input with window forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF2473B1-68A1-46EF-BD57-44F1DF12E453}|Input with Window Forms\\Input with Window Forms.vbproj|solutionrelative:input with window forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Input with Window Forms\\Input with Window Forms\\Form1.vb",
+              "RelativeDocumentMoniker": "Input with Window Forms\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Input with Window Forms\\Input with Window Forms\\Form1.vb",
+              "RelativeToolTip": "Input with Window Forms\\Form1.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T06:56:06.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Input with Window Forms\\Input with Window Forms\\Form1.vb",
+              "RelativeDocumentMoniker": "Input with Window Forms\\Form1.vb",
+              "ToolTip": "C:\\Users\\akosi\\OneDrive\\Desktop\\VB.net\\Input with Window Forms\\Input with Window Forms\\Form1.vb [Design]",
+              "RelativeToolTip": "Input with Window Forms\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T06:55:31.828Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

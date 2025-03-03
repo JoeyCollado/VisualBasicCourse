@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SelectCaseStatement2/1.0.0": {
+        "runtime": {
+          "SelectCaseStatement2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SelectCaseStatement2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

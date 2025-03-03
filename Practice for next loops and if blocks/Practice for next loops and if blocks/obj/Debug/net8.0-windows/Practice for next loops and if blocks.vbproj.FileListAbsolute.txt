@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\bin\Debug\net8.0-windows\Practice for next loops and if blocks.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\bin\Debug\net8.0-windows\Practice for next loops and if blocks.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\bin\Debug\net8.0-windows\Practice for next loops and if blocks.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\bin\Debug\net8.0-windows\Practice for next loops and if blocks.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\bin\Debug\net8.0-windows\Practice for next loops and if blocks.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\Practice_for_next_loops_and_if_blocks.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\Practice for next loops and if blocks.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\Practice for next loops and if blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\Practice for next loops and if blocks.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\Practice for next loops and if blocks.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\Practice for next loops and if blocks.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\Practice for next loops and if blocks.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\refint\Practice for next loops and if blocks.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\Practice for next loops and if blocks.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\Practice for next loops and if blocks.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Practice for next loops and if blocks\Practice for next loops and if blocks\obj\Debug\net8.0-windows\ref\Practice for next loops and if blocks.dll

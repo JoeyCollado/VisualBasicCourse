@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\bin\Debug\net8.0\FunctionsMulti.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\bin\Debug\net8.0\FunctionsMulti.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\bin\Debug\net8.0\FunctionsMulti.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\bin\Debug\net8.0\FunctionsMulti.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\bin\Debug\net8.0\FunctionsMulti.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\obj\Debug\net8.0\FunctionsMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\obj\Debug\net8.0\FunctionsMulti.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\obj\Debug\net8.0\FunctionsMulti.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\obj\Debug\net8.0\FunctionsMulti.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\obj\Debug\net8.0\FunctionsMulti.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\obj\Debug\net8.0\refint\FunctionsMulti.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\obj\Debug\net8.0\FunctionsMulti.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\obj\Debug\net8.0\FunctionsMulti.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\FunctionsMulti\FunctionsMulti\obj\Debug\net8.0\ref\FunctionsMulti.dll

@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\bin\Debug\net8.0\outputs and inputs-console.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\bin\Debug\net8.0\outputs and inputs-console.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\bin\Debug\net8.0\outputs and inputs-console.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\bin\Debug\net8.0\outputs and inputs-console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\bin\Debug\net8.0\outputs and inputs-console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\obj\Debug\net8.0\outputs and inputs-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\obj\Debug\net8.0\outputs and inputs-console.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\obj\Debug\net8.0\outputs and inputs-console.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\obj\Debug\net8.0\outputs and inputs-console.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\obj\Debug\net8.0\outputs and inputs-console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\obj\Debug\net8.0\refint\outputs and inputs-console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\obj\Debug\net8.0\outputs and inputs-console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\obj\Debug\net8.0\outputs and inputs-console.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Variables-console\Variables-console\obj\Debug\net8.0\ref\outputs and inputs-console.dll

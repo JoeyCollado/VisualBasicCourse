@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\bin\Debug\net8.0\LogicalAndBitwiseOperator.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\bin\Debug\net8.0\LogicalAndBitwiseOperator.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\bin\Debug\net8.0\LogicalAndBitwiseOperator.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\bin\Debug\net8.0\LogicalAndBitwiseOperator.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\bin\Debug\net8.0\LogicalAndBitwiseOperator.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\obj\Debug\net8.0\LogicalAndBitwiseOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\obj\Debug\net8.0\LogicalAndBitwiseOperator.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\obj\Debug\net8.0\LogicalAndBitwiseOperator.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\obj\Debug\net8.0\LogicalAndBitwiseOperator.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\obj\Debug\net8.0\LogicalAndBitwiseOperator.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\obj\Debug\net8.0\refint\LogicalAndBitwiseOperator.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\obj\Debug\net8.0\LogicalAndBitwiseOperator.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\obj\Debug\net8.0\LogicalAndBitwiseOperator.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\LogicalAndBitwiseOperator\LogicalAndBitwiseOperator\obj\Debug\net8.0\ref\LogicalAndBitwiseOperator.dll

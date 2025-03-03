@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\bin\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\bin\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\bin\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\bin\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\bin\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\_2d_arrays_and_nested_loop_windows.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\refint\2d_arrays_and_nested_loop_windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\2d_arrays_and_nested_loop_windows.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\2d_arrays_and_nested_loop_windows\2d_arrays_and_nested_loop_windows\obj\Debug\net8.0-windows\ref\2d_arrays_and_nested_loop_windows.dll

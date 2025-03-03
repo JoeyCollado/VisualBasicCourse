@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\bin\Debug\net8.0\Operator_precedence.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\bin\Debug\net8.0\Operator_precedence.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\bin\Debug\net8.0\Operator_precedence.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\bin\Debug\net8.0\Operator_precedence.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\bin\Debug\net8.0\Operator_precedence.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\obj\Debug\net8.0\Operator_precedence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\obj\Debug\net8.0\Operator_precedence.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\obj\Debug\net8.0\Operator_precedence.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\obj\Debug\net8.0\Operator_precedence.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\obj\Debug\net8.0\Operator_precedence.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\obj\Debug\net8.0\refint\Operator_precedence.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\obj\Debug\net8.0\Operator_precedence.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\obj\Debug\net8.0\Operator_precedence.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Operator_precedence\Operator_precedence\obj\Debug\net8.0\ref\Operator_precedence.dll

@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\bin\Debug\net8.0\ifStatement-console.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\bin\Debug\net8.0\ifStatement-console.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\bin\Debug\net8.0\ifStatement-console.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\bin\Debug\net8.0\ifStatement-console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\bin\Debug\net8.0\ifStatement-console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\obj\Debug\net8.0\ifStatement-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\obj\Debug\net8.0\ifStatement-console.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\obj\Debug\net8.0\ifStatement-console.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\obj\Debug\net8.0\ifStatement-console.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\obj\Debug\net8.0\ifStatement-console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\obj\Debug\net8.0\refint\ifStatement-console.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\obj\Debug\net8.0\ifStatement-console.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\obj\Debug\net8.0\ifStatement-console.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\ifStatement-console\ifStatement-console\obj\Debug\net8.0\ref\ifStatement-console.dll

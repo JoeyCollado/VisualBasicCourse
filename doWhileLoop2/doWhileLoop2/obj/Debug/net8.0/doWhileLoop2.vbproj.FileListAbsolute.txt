@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\bin\Debug\net8.0\doWhileLoop2.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\bin\Debug\net8.0\doWhileLoop2.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\bin\Debug\net8.0\doWhileLoop2.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\bin\Debug\net8.0\doWhileLoop2.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\bin\Debug\net8.0\doWhileLoop2.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\obj\Debug\net8.0\doWhileLoop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\obj\Debug\net8.0\doWhileLoop2.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\obj\Debug\net8.0\doWhileLoop2.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\obj\Debug\net8.0\doWhileLoop2.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\obj\Debug\net8.0\doWhileLoop2.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\obj\Debug\net8.0\refint\doWhileLoop2.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\obj\Debug\net8.0\doWhileLoop2.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\obj\Debug\net8.0\doWhileLoop2.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\doWhileLoop2\doWhileLoop2\obj\Debug\net8.0\ref\doWhileLoop2.dll

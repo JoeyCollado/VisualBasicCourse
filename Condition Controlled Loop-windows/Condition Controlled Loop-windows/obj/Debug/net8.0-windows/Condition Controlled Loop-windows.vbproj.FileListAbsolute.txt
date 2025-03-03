@@ -1,0 +1,16 @@
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\bin\Debug\net8.0-windows\Condition Controlled Loop-windows.exe
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\bin\Debug\net8.0-windows\Condition Controlled Loop-windows.deps.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\bin\Debug\net8.0-windows\Condition Controlled Loop-windows.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\bin\Debug\net8.0-windows\Condition Controlled Loop-windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\bin\Debug\net8.0-windows\Condition Controlled Loop-windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\Condition_Controlled_Loop_windows.Form1.resources
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\Condition Controlled Loop-windows.vbproj.GenerateResource.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\Condition Controlled Loop-windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\Condition Controlled Loop-windows.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\Condition Controlled Loop-windows.AssemblyInfo.vb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\Condition Controlled Loop-windows.vbproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\Condition Controlled Loop-windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\refint\Condition Controlled Loop-windows.dll
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\Condition Controlled Loop-windows.pdb
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\Condition Controlled Loop-windows.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\VB.net\Condition Controlled Loop-windows\Condition Controlled Loop-windows\obj\Debug\net8.0-windows\ref\Condition Controlled Loop-windows.dll
